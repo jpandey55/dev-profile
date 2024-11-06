@@ -40,7 +40,12 @@ function SkillList() {
       <Skill skill="React" emoji="💪" color="blue" />
       <Skill skill="HTML+CSS" emoji="💪" color="orange" />
       <Skill skill="JavaScript" emoji="💪" color="yellow" />
-      <Skill skill="Svelte" emoji="💪" color="orangered" />
+      <Skill skill="Java" emoji="💪" color="orangered" />
+      <Skill skill="Spring" emoji="💪" color="orangered" />
+      <Skill skill="AWS" emoji="💪" color="orangered" />
+      <Skill skill="K8s" emoji="💪" color="orangered" />
+      <Skill skill="Kafka" emoji="💪" color="orangered" />
+      <Skill skill="Postgres" emoji="💪" color="orangered" />
     </div>
   );
 }
